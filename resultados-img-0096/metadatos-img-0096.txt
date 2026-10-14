@@ -1,0 +1,36 @@
+
+INFORME DE METADATOS Y PROPIEDADES
+==================================
+
+Nombre del archivo: img-ventilador-0096.jpg
+Ruta del archivo: C:\IA_Gpo3H\VA_0096\u2-act1-0096\img-original-0096\img-ventilador-0096.jpg
+Formato por extension: .JPG
+Tamano en bytes: 44220
+Tamano en KB: 43.18
+Tamano en MB: 0.0422
+
+DIMENSIONES
+-----------
+Ancho: 714 pixeles
+Alto: 900 pixeles
+Resolucion: 714 x 900
+Total de pixeles: 642,600
+
+CANALES Y DATOS
+---------------
+Numero de canales: 3
+Orden de canales: BGR
+Tipo de datos: uint8
+Valor minimo de pixel: 0
+Valor maximo de pixel: 255
+Promedio general de los valores: 212.89
+
+PROMEDIO POR CANAL
+------------------
+Azul (B): 224.67
+Verde (G): 219.12
+Rojo (R): 194.86
+
+Nota: el formato se identifica por la extension
+del archivo. La resolucion indica las dimensiones
+en pixeles y no los puntos por pulgada (DPI).
